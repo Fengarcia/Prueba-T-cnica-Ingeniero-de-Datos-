@@ -20,10 +20,14 @@ import pandas as pd
 import requests
 import logging
 import time
+import os
 
 # Configuración del sistema de logging.
 # Todos los eventos de información y errores se almacenarán
 # en el archivo logs/pipeline.log.
+# Crea la carpeta 'logs' si no existe.
+os.makedirs("logs", exist_ok=True)
+
 logging.basicConfig(
     filename="logs/pipeline.log",
     level=logging.INFO
