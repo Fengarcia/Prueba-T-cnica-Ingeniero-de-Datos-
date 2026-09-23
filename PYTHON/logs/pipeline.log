@@ -1,0 +1,31 @@
+2026-09-21 22:42:46,286 - INFO - Inicio del proceso de carga de datos
+2026-09-21 22:42:46,293 - ERROR - Archivo no encontrado: [Errno 2] No such file or directory: 'PYTHON/machines.csv'
+2026-09-21 22:43:23,603 - INFO - Inicio del proceso de carga de datos
+2026-09-21 22:43:23,604 - ERROR - Archivo no encontrado: [Errno 2] No such file or directory: 'PYTHON/machines.csv'
+2026-09-21 22:52:34,933 - INFO - Inicio del proceso de carga de datos
+2026-09-21 22:52:34,934 - ERROR - Archivo no encontrado: [Errno 2] No such file or directory: 'PYTHON/machines.csv'
+2026-09-21 22:56:09,710 - INFO - Inicio del proceso de carga de datos
+2026-09-21 22:56:09,711 - ERROR - Archivo no encontrado: [Errno 2] No such file or directory: 'PYTHON/machines.csv'
+2026-09-21 22:56:24,157 - INFO - Inicio del proceso de carga de datos
+2026-09-21 22:56:24,158 - ERROR - Archivo no encontrado: [Errno 2] No such file or directory: 'PYTHON/machines.csv'
+2026-09-21 22:57:55,598 - INFO - Inicio del proceso de carga de datos
+2026-09-21 22:57:55,599 - ERROR - Archivo no encontrado: [Errno 2] No such file or directory: 'PYTHON/machines.csv'
+2026-09-21 22:58:06,790 - INFO - Inicio del proceso de carga de datos
+2026-09-21 22:58:06,791 - ERROR - Archivo no encontrado: [Errno 2] No such file or directory: 'PYTHON/machines.csv'
+2026-09-21 23:08:41,279 - INFO - Carga de datos completada
+ERROR:root:Execution failed
+ERROR:root:Execution failed
+ERROR:root:Execution failed
+ERROR:root:Execution failed
+ERROR:root:Execution failed
+ERROR:root:Execution failed
+ERROR:root:Execution failed
+INFO:root:Transformaciones completadas
+2026-09-22 17:30:51,855 - INFO - Carga de datos completada
+ERROR:root:Execution failed
+INFO:root:Transformaciones completadas
+ERROR:root:Execution failed
+2026-09-22 17:56:18,112 - INFO - Carga de datos completada
+ERROR:root:Execution failed
+ERROR:root:Execution failed
+2026-09-22 18:08:25,883 - INFO - Carga de datos completada
