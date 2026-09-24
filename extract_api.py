@@ -21,6 +21,7 @@ import requests
 import logging
 import time
 import os
+import json
 
 # Configuración del sistema de logging.
 # Todos los eventos de información y errores se almacenarán
@@ -58,6 +59,8 @@ try:
         response.json()
     )
 
+    users["address"] = users["address"].apply(json.dumps)
+    users["company"] = users["company"].apply(json.dumps)
     # Establece la conexión con la base de datos SQLite.
     conn = sqlite3.connect(DB_NAME)
 
@@ -84,6 +87,7 @@ try:
     )
 
 except Exception as e:
+
     """
     Captura cualquier excepción ocurrida durante:
     - La conexión a la API.
