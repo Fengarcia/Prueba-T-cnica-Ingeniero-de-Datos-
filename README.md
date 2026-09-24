@@ -6,6 +6,8 @@ Este proyecto implementa un pipeline de datos en Python compuesto por las etapas
 > [!NOTE]
 > PARTE N° 1
 
+## PARTE 1 ENTREGABLES
+
 Las fuentes de datos utilizadas son:
 
 1. API pública REST (JSONPlaceholder).
@@ -103,7 +105,12 @@ se genera la tabla "machine_performance" a partir del Join de las tablas operati
 
 El objetivo fue disponer de una tabla analítica preparada para responder preguntas de negocio sin necesidad de realizar múltiples uniones en cada consulta.
 
+> [!NOTE]
+> PARTE N° 2 entregables y ejecución de las dependencias y clon de el repositorio.
 
+## PARTE 2 ENTREGABLES
+
+Clonar repositorio 
 
 
 
